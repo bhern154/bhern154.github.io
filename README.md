@@ -10,7 +10,7 @@
 </head>
 <body>
   
-  <p><a href="https://bhern154.github.io/portfolio.html" class="text-info">My Portfolio</a></p>
+  <p><a href="https://bhern154.github.io/portfolio.html" class="text-info" target="_blank">My Portfolio</a></p>
   
 </body>
 </html>
