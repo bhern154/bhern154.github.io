@@ -7,8 +7,8 @@
 </head>
 <body>
   
-  <div class="p-3 mb-2 bg-info text-white">CLICK THE LINK BELOW TO MY PORTFOLIO WEBSITE!</div>
-  <a href="https://bhern154.github.io/portfolio.html" class="text-info" target="_blank">My Portfolio</a>
+  <h3>MY PORTFOLIO WEBSITE!</h3>
+  <p><a href="https://bhern154.github.io/portfolio.html" class="text-info" target="_blank">My Portfolio</a></p>
   
 </body>
 </html>
