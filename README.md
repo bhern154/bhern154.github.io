@@ -7,6 +7,7 @@
 </head>
 <body>
   
+  <div class="p-3 mb-2 bg-info text-white">CLICK THE LINK TO MY PORTFOLIO WEBSITE!</div>
   <a href="https://bhern154.github.io/portfolio.html" class="text-info" target="_blank">My Portfolio</a>
   
 </body>
