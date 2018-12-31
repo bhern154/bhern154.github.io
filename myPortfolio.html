@@ -20,8 +20,18 @@
       background: #006f8b;
       padding: 20px; 
     }
-    .rounded-2 {
-      border-radius: 25px;
+    .left {
+      border-radius: 25px 0px 0px 25px;
+      border: 2px solid #006f8b;
+      padding: 20px; 
+    }
+    .mid {
+      border-radius: 0px 0px 0px 0px;
+      border: 2px solid #006f8b;
+      padding: 20px; 
+    }
+    .right {
+      border-radius: 0px 25px 25px 0px;
       border: 2px solid #006f8b;
       padding: 20px; 
     }
@@ -63,14 +73,14 @@
     </div>
   </div>
   
-  <div class="row, rounded-2">
-    <div class="col-sm">
+  <div class="row">
+    <div class="col-sm, left">
       One of three columns
     </div>
-    <div class="col-sm">
+    <div class="col-sm, mid">
       One of three columns
     </div>
-    <div class="col-sm">
+    <div class="col-sm, right">
       One of three columns
     </div>
   </div>
