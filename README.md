@@ -1,4 +1,2 @@
-<h3>MY PORTFOLIO WEBSITE!</h3>
-<a href="https://bhern154.github.io/MyPortfolio/myPortfolio.html" target="_blank">My Portfolio</a>
-
-<!--# bhern154.github.io-->
+<h3>Visit my portfolio Website!</h3>
+<a href="brian-hernandez.tech" target="_blank">Brian Hernandez Portfolio</a>
